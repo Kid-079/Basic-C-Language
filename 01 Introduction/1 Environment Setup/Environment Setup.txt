@@ -1,0 +1,12 @@
+ENVIRONMENT SETUP
+
+1. Text Editor
+   - Notepad ++
+   - Sublime Text 
+   - Visual Studio
+   - etc.
+
+2. Compiler
+   - gcc
+   - g++
+   - etc.

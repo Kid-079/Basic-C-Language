@@ -1,0 +1,10 @@
+INSTALL COMPILER
+
+LINUX
+- sudo apt update
+- sudo apt upgrade
+- sudo apt install build-essential
+
+Compile
+- gcc hello.c -o hello
+- gcc hello.c header.c -o hello
