@@ -1,0 +1,33 @@
+Data Types
+
+1. Integer Constant 
+   123   -> Decimal
+   0123  -> Oktal
+   0x1b  -> Hexadecimal
+   20    -> Int
+   20u   -> Unsigned Int
+   20l   -> Long
+   20ul  -> Unsigned Long
+
+2. Floating Constant
+   10.0L -> Long Double
+   10.0  -> Double
+   10.0F -> Float
+
+3. Escape Character
+   Sequence         Value         Char          Description
+   \a               0x07          BEL           Audible Bell
+   \b               0x08          BS            Backspace
+   \t               0x09          HT            Horizontal Tab
+   \n               0x0A          LF            Newline
+   \v               0x0B          VT            Vertical Tab
+   \f               0x0C          FF            Formfeed
+   \r               0x0D          CR            Carriage Return
+   \"               0x22          "             Double Quote
+   \'               0x27          '             Single Quote
+   \\               0x5c          \             Backslash
+   \?               0x3f          ?             Question Mark
+   \O                                           O = string to Octal
+   \xH                                          H = string of Hex
+
+4. String Literal
