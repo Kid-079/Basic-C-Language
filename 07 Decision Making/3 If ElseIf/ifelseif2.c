@@ -13,7 +13,7 @@ int main(){
 		printf("Check 3\n");
 	} else {
 		printf("Try Again.. Follow The Instructions.. \n");
-		printf("Check 1.. 2.. Check 1.. 2.. Check 1.. 2.. 3... \n");
+		printf("Check 1.. Check 1.. 2.. Check 1.. 2.. 3... \n");
 	}
 	
 	return 0;
