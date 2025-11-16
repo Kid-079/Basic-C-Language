@@ -3,7 +3,7 @@
 double getAverage(int array[], int index);
 
 int main(){
-	int value[5] = {2,3,4,5,7};
+	int value[5] = {2,3,4,5,6};
 	double average1;
 
 	average1 = getAverage(value, 5);
