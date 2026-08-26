@@ -6,9 +6,11 @@ int main(){
 
 	if (a == 5){
 		if (b == 10) {			
-			printf("OK\n");
+			//printf("OK\n");
+			printf("Value True\n");
 		}
-		printf("A\n");
+		//printf("A\n");
+		printf("Value Not True\n");
 	}
 
 	printf("Value a : %d\n",a);
