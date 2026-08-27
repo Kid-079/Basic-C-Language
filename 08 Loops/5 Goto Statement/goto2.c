@@ -8,7 +8,7 @@ int main(){
 		a--;
 		if (a == 5){
 			a = a - 1;
-			printf("Give me five\n");
+			printf("Silence Is Power\n");
 			goto A;			
 		}
 	} while (a > 0);
