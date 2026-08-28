@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	int a = 8;
-	int b = 8;
+	int a = 10;
+	int b = 10;
 
 	if ( a < b) {
 		printf("A less than B\n");
