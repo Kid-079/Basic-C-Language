@@ -2,7 +2,7 @@
 
 int main()
 {
-	char Accuracy[2];
+	char Accuracy[5];
 
 	printf("Accuracy : ");
 	fgets(Accuracy, sizeof(Accuracy), stdin);	
