@@ -2,7 +2,7 @@
 
 int main()
 {
-	char Accuracy[2], Response[2];
+	char Accuracy[5], Response[5];
 
 	printf("Accuracy : ");
 	scanf("%s", Accuracy);
